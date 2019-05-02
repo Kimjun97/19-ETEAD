@@ -1,5 +1,5 @@
 # 19-ETEAD
-Deep learning, Python
+Deep learning, Python, Eye Tracking
 
 https://www.tensorflow.org/  //python을 실행 할 수 있음
 
